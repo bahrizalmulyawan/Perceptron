@@ -43,6 +43,6 @@ Model awal dilatih otomatis di browser dengan pola bitmap sintetis 5 × 7 yang d
 **Bahrizal Helmi Mulyawan**
 
 ## LIVE DEMO (Number)
-https://bahrizalmulyawan.github.io/Preceptron/Number/Perceptron.html
+https://bahrizalmulyawan.github.io/Preceptron/Numbers/Perceptron.html
 ## Live Demo(Alphabet)
 https://bahrizalmulyawan.github.io/Preceptron/Alphabet/Perceptron.html
